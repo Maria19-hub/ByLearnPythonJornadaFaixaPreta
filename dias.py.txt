@@ -1,0 +1,8 @@
+dia = input('Qual é o dia atual? ')
+
+if dia == 'sabado':
+  print('É fim de semana :D')
+elif dia == 'domingo':
+  print('É fim de semana :D')
+else: 
+  print('Não é fim de semana :(')
